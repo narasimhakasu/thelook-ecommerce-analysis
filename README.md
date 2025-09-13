@@ -40,31 +40,30 @@ The project is structured to demonstrate skills aligned with professional data a
 ---
 
 ## 📂 Project Structure
-```
-├── sql_queries/                     # All SQL scripts
-│   ├── [order_lifecycle_summary.sql](sql_queries/order_lifecycle_summary.sql)
-│   ├── [revenue_summary.sql](sql_queries/revenue_summary.sql)
-│   ├── [monthly_revenue.sql](sql_queries/monthly_revenue.sql)
-│   ├── [products_summary.sql](sql_queries/products_summary.sql)
-│   ├── [customer_summary.sql](sql_queries/customer_summary.sql)
-│   ├── [distribution_operations_summary.sql](sql_queries/distribution_operations_summary.sql)
-│   └── [order_stage_summary.sql](sql_queries/order_stage_summary.sql)
-│
-├── docs/                            # Documentation
-│   ├── [business_questions.md](docs/business_questions.md)
-│   ├── [data_pipeline.md](docs/data_pipeline.md)
-│   ├── [methodology.md](docs/methodology.md)
-│   └── [recommendations.md](docs/recommendations.md)
-│
-├── Dashboard/                       # Dashboard screenshots
-│   ├── [page1_overview.png](Dashboard/page1_overview.png)
-│   ├── [page2_products.png](Dashboard/page2_products.png)
-│   ├── [page3_customers.png](Dashboard/page3_customers.png)
-│   ├── [page4_operations.png](Dashboard/page4_operations.png)
-│   └── [dashboard_overview.pdf](Dashboard/dashboard_overview.pdf)
-│
-└── README.md                        # Project overview (this file)
-```
+
+- **sql_queries/** (All SQL scripts)  
+  - [order_lifecycle_summary.sql](sql_queries/order_lifecycle_summary.sql)  
+  - [revenue_summary.sql](sql_queries/revenue_summary.sql)  
+  - [monthly_revenue.sql](sql_queries/monthly_revenue.sql)  
+  - [products_summary.sql](sql_queries/products_summary.sql)  
+  - [customer_summary.sql](sql_queries/customer_summary.sql)  
+  - [distribution_operations_summary.sql](sql_queries/distribution_operations_summary.sql)  
+  - [order_stage_summary.sql](sql_queries/order_stage_summary.sql)  
+
+- **docs/** (Documentation)  
+  - [business_questions.md](docs/business_questions.md)  
+  - [data_pipeline.md](docs/data_pipeline.md)  
+  - [methodology.md](docs/methodology.md)  
+  - [recommendations.md](docs/recommendations.md)  
+
+- **Dashboard/** (Dashboard screenshots)  
+  - [page1_overview.png](dashboard/page1_overview.png)  
+  - [page2_products.png](dashboard/page2_products.png)  
+  - [page3_customers.png](dashboard/page3_customers.png)  
+  - [page4_operations.png](dashboard/page4_operations.png)  
+  - [dashboard_overview.pdf](dashboard/dashboard_overview.pdf)  
+
+- **README.md** → Project overview (this file)  
 
 ---
 
