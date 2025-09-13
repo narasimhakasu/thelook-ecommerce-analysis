@@ -42,7 +42,7 @@ The project is structured to demonstrate skills aligned with professional data a
 ## 📂 Project Structure
 
 - **sql_queries/** (All SQL scripts)  
-  - [order_lifecycle_summary.sql](sql_queries/order_lifecycle_summary.sql)  
+  - [orders_lifecycle_summary.sql](sql_queries/orders_lifecycle_summary.sql)  
   - [revenue_summary.sql](sql_queries/revenue_summary.sql)  
   - [monthly_revenue.sql](sql_queries/monthly_revenue.sql)  
   - [products_summary.sql](sql_queries/products_summary.sql)  
